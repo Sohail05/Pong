@@ -1,5 +1,6 @@
 #include "gl_helper.h"
-#include "GL/glew.h"
+//#include "GL/glew.h"
+#include <GL/glu.h>
 
 
 void gl_helper::DebugPoint(float x , float y){
